@@ -1,8 +1,8 @@
 {
-  "name": "airwire-marketing-templates",
+  "name": "airwire-templates",
   "private": true,
   "version": "0.0.1",
-  "description": "High-quality landing page templates for marketers.",
+  "description": "High-quality HTML landing page templates for marketers.",
   "author": "Stuart Blanton Williams",
   "license": "MIT",
   "scripts": {
