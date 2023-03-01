@@ -1,0 +1,46 @@
+<!-- Hero Offset -->
+<section class="bg-gray-100">
+  <div class="container pt-6 pb-7">
+    <div class="grid gap-x-4 gap-y-5 md:grid-cols-12">
+      <!-- Accent Border -->
+      <div class="hidden md:grid md:col-start-1 md:items-center">
+        <hr class="border-t-1" />
+      </div>
+
+      <!-- Accent Text-->
+      <div class="md:col-start-2 md:col-span-6">
+        <span class="text-sm uppercase">Accent text</span>
+      </div>
+
+      <!-- Headline -->
+      <div class="md:col-start-2 md:col-end-12 lg:col-end-11 xl:col-end-10">
+        <h1 class="font-900 text-4xl lg:text-6xl xl:text-7xl">
+          Capture attention with irresistible headline copy.
+        </h1>
+      </div>
+
+      <!-- Description -->
+      <div class="md:col-start-4 md:col-end-12 lg:col-end-11 xl:col-end-10">
+        <p class="lg:text-lg">
+          Support your awesome headlines with captivating, descriptive text. Captivate your audience
+          and encourage visitors to take the desired action.
+        </p>
+      </div>
+
+      <!-- Button Row -->
+      <div class="md:col-start-4 md:col-end-12 lg:col-end-11 xl:col-end-10">
+        <div class="flex gap-x-4">
+          <a
+            href="#"
+            class="block px-5 py-3 font-500 border-px rounded-md border-black bg-black text-white"
+          >
+            <span>Get Started</span>
+          </a>
+          <a href="#" class="block px-5 py-3 font-500 border-px rounded-md border-black">
+            <span>Learn More</span>
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
