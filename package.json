@@ -1,8 +1,9 @@
 {
-  "name": "11ty-webc-starter",
+  "name": "airwire-marketing-templates",
   "private": true,
   "version": "0.0.1",
-  "description": "A minimal 11ty WebC starter.",
+  "description": "High-quality landing page templates for marketers.",
+  "author": "Stuart Blanton Williams",
   "license": "MIT",
   "scripts": {
     "clean": "rm -rf _site",

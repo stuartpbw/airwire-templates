@@ -4,8 +4,12 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- SEO -->
     <title webc:is="meta-title"></title>
     <meta webc:is="meta-desc" />
+    <!-- CSS/JS -->
+    <link rel="stylesheet" href="https://unpkg.com/airwire-css/css/airwire.min.css" webc:keep />
+    <script src="//unpkg.com/alpinejs" defer webc:keep></script>
   </head>
   <body @html="content"></body>
 </html>

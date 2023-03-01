@@ -1,3 +1,3 @@
-# 11ty-webc-starter
+# Airwire Marketing Templates
 
-A minimal 11ty WebC starter.
+High-quality landing page templates for marketers.
