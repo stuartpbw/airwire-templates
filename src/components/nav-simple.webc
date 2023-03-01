@@ -1,0 +1,15 @@
+<!-- Nav Simple -->
+<nav class="bg-white text-black">
+  <div class="container py-4">
+    <div class="flex items-center justify-between">
+      <a href="#" class="inline-flex">
+        <strong class="text-lg">Brand Name</strong>
+      </a>
+      <div class="inline-flex items-center gap-x-4">
+        <a class="block px-5 py-3 font-500 border-px rounded-md bg-black text-white" href="#">
+          <span>Request Demo</span>
+        </a>
+      </div>
+    </div>
+  </div>
+</nav>

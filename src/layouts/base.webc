@@ -11,5 +11,5 @@
     <link rel="stylesheet" href="https://unpkg.com/airwire-css/css/airwire.min.css" webc:keep />
     <script src="//unpkg.com/alpinejs" defer webc:keep></script>
   </head>
-  <body @html="content"></body>
+  <body class="font-sans debug-silver" @html="content"></body>
 </html>
