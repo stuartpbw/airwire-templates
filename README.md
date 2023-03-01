@@ -1,3 +1,3 @@
-# Airwire Marketing Templates
+# Airwire Templates
 
-High-quality landing page templates for marketers.
+High-quality HTML landing page templates for marketers.
