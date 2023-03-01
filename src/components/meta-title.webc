@@ -1,0 +1,3 @@
+<script webc:type="js" webc:is="template">
+  `<title>${title ?? site.title}</title>`;
+</script>

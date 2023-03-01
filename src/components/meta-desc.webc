@@ -1,0 +1,3 @@
+<script webc:type="js" webc:is="template">
+  `<meta name="description" content="${description ?? site.description}">`;
+</script>

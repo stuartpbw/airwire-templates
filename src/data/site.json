@@ -1,0 +1,9 @@
+{
+  "title": "11ty-webc-starter",
+  "description": "A minimal 11ty WebC starter.",
+  "url": "https://example.com",
+  "author": {
+    "name": "<your-name>",
+    "url": "https://example.com"
+  }
+}

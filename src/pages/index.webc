@@ -1,0 +1,6 @@
+---
+layout: base.webc
+---
+
+<h1 @html="site.title"></h1>
+<hello-component></hello-component>
